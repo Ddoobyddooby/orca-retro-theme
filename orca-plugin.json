@@ -42,5 +42,16 @@
     ]
   },
   "license": "MIT",
-  "repository": "https://github.com/Ddoobyddooby/orca-window-theme"
+  "repository": "https://github.com/Ddoobyddooby/orca-window-theme",
+  "cover": {
+    "path": "images/cover.png",
+    "alt": "Windows 98 theme in Orca: silver panels, yellow folder icons and a black DOS-style terminal"
+  },
+  "screenshots": [
+    {
+      "path": "images/screenshot.png",
+      "alt": "File explorer with Windows 98 icons beside a black terminal",
+      "caption": "Silver panels, pixel icons and DOS terminal"
+    }
+  ]
 }
