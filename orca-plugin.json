@@ -1,0 +1,46 @@
+{
+  "manifestVersion": 2,
+  "id": "orca-window-theme",
+  "name": "Windows 98",
+  "version": "0.1.0",
+  "description": "Retro Windows 98 look: silver chrome, navy highlights, teal sidebar.",
+  "engines": {
+    "orca": ">=1.4.246"
+  },
+  "execution": "data",
+  "contributes": {
+    "themes": [
+      {
+        "id": "orca-window-theme-win98",
+        "title": "Windows 98",
+        "path": "themes/win98.json"
+      },
+      {
+        "id": "orca-window-theme-win98-dark",
+        "title": "Windows 98 (Dark slot)",
+        "path": "themes/win98-dark.json"
+      }
+    ],
+    "terminalThemes": [
+      {
+        "id": "orca-window-theme-dos",
+        "title": "Windows 98 DOS Prompt",
+        "path": "terminal/dos.json"
+      },
+      {
+        "id": "orca-window-theme-dos-light",
+        "title": "Windows 98 DOS Prompt (Light slot)",
+        "path": "terminal/dos-light.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "orca-window-theme-icons",
+        "title": "Windows 98 Icons",
+        "path": "themes/icons.json"
+      }
+    ]
+  },
+  "license": "MIT",
+  "repository": "https://github.com/Ddoobyddooby/orca-window-theme"
+}
