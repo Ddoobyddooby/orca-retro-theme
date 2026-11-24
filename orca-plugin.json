@@ -1,9 +1,9 @@
 {
   "manifestVersion": 2,
   "id": "orca-window-theme",
-  "name": "Windows 98",
+  "name": "Retro 98",
   "version": "0.1.0",
-  "description": "Retro Windows 98 look: silver chrome, navy highlights, teal sidebar.",
+  "description": "Retro 90s desktop look: silver chrome, navy highlights, teal sidebar.",
   "engines": {
     "orca": ">=1.4.246"
   },
@@ -12,31 +12,31 @@
     "themes": [
       {
         "id": "orca-window-theme-win98",
-        "title": "Windows 98",
+        "title": "Retro 98",
         "path": "themes/win98.json"
       },
       {
         "id": "orca-window-theme-win98-dark",
-        "title": "Windows 98 (Dark slot)",
+        "title": "Retro 98 (Dark slot)",
         "path": "themes/win98-dark.json"
       }
     ],
     "terminalThemes": [
       {
         "id": "orca-window-theme-dos",
-        "title": "Windows 98 DOS Prompt",
+        "title": "Retro 98 DOS Prompt",
         "path": "terminal/dos.json"
       },
       {
         "id": "orca-window-theme-dos-light",
-        "title": "Windows 98 DOS Prompt (Light slot)",
+        "title": "Retro 98 DOS Prompt (Light slot)",
         "path": "terminal/dos-light.json"
       }
     ],
     "iconThemes": [
       {
         "id": "orca-window-theme-icons",
-        "title": "Windows 98 Icons",
+        "title": "Retro 98 Icons",
         "path": "themes/icons.json"
       }
     ]
@@ -45,12 +45,12 @@
   "repository": "https://github.com/Ddoobyddooby/orca-window-theme",
   "cover": {
     "path": "images/cover.png",
-    "alt": "Windows 98 theme in Orca: silver panels, yellow folder icons and a black DOS-style terminal"
+    "alt": "Retro 98 theme in Orca: silver panels, yellow folder icons and a black DOS-style terminal"
   },
   "screenshots": [
     {
       "path": "images/screenshot.png",
-      "alt": "File explorer with Windows 98 icons beside a black terminal",
+      "alt": "File explorer with Retro 98 icons beside a black terminal",
       "caption": "Silver panels, pixel icons and DOS terminal"
     }
   ]
