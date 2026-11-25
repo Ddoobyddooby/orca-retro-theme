@@ -37,7 +37,7 @@
     "--worktree-sidebar-foreground": "#000000",
     "--worktree-sidebar-accent": "#9090d0",
     "--worktree-sidebar-accent-foreground": "#000000",
-    "--worktree-sidebar-border": "#404040",
+    "--worktree-sidebar-border": "#cccccc",
     "--worktree-sidebar-ring": "#000080",
     "--tab-bar": "#cccccc",
     "--tab-active": "#ffffff",
@@ -51,8 +51,8 @@
     "--text-link": "#0000ee",
     "--host-badge": "#000080",
     "--host-badge-foreground": "#ffffff",
-    "--worktree-sidebar-active": "#d4d4d4",
-    "--worktree-sidebar-active-border": "#000080"
+    "--worktree-sidebar-active": "#9090d0",
+    "--worktree-sidebar-active-border": "#9090d0"
   },
   "tokenColors": [
     {
