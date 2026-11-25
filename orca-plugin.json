@@ -1,8 +1,8 @@
 {
   "manifestVersion": 2,
-  "id": "orca-window-theme",
+  "id": "retro-98-theme",
   "name": "Retro 98",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Retro 90s desktop look: silver chrome, navy highlights, teal sidebar.",
   "engines": {
     "orca": ">=1.4.246"
@@ -11,31 +11,31 @@
   "contributes": {
     "themes": [
       {
-        "id": "orca-window-theme-win98",
+        "id": "retro-98-theme-win98",
         "title": "Retro 98",
         "path": "themes/win98.json"
       },
       {
-        "id": "orca-window-theme-win98-dark",
+        "id": "retro-98-theme-win98-dark",
         "title": "Retro 98 (Dark slot)",
         "path": "themes/win98-dark.json"
       }
     ],
     "terminalThemes": [
       {
-        "id": "orca-window-theme-dos",
+        "id": "retro-98-theme-dos",
         "title": "Retro 98 DOS Prompt",
         "path": "terminal/dos.json"
       },
       {
-        "id": "orca-window-theme-dos-light",
+        "id": "retro-98-theme-dos-light",
         "title": "Retro 98 DOS Prompt (Light slot)",
         "path": "terminal/dos-light.json"
       }
     ],
     "iconThemes": [
       {
-        "id": "orca-window-theme-icons",
+        "id": "retro-98-theme-icons",
         "title": "Retro 98 Icons",
         "path": "themes/icons.json"
       }

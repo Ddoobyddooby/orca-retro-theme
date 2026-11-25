@@ -1,4 +1,4 @@
-# Retro 98 (orca-window-theme)
+# Retro 98 (retro-98-theme)
 
 Retro 90s desktop look for Orca: silver chrome, navy highlights, teal desktop sidebar,
 a black DOS-prompt terminal and pixel-style file icons.
