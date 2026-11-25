@@ -42,7 +42,7 @@
     ]
   },
   "license": "MIT",
-  "repository": "https://github.com/Ddoobyddooby/orca-window-theme",
+  "repository": "https://github.com/Ddoobyddooby/orca-retro-theme",
   "cover": {
     "path": "images/cover.png",
     "alt": "Retro 98 theme in Orca: light gray panels, yellow folder icons and a black retro terminal"
@@ -50,7 +50,7 @@
   "screenshots": [
     {
       "path": "images/screenshot.png",
-      "alt": "Whole Orca window with the Retro 98 app theme, icon theme and terminal theme",
+      "alt": "Whole Orca screen with the Retro 98 app theme, icon theme and terminal theme",
       "caption": "App theme, icons and retro terminal together"
     },
     {
@@ -63,6 +63,6 @@
     "name": "Ddoobyddooby",
     "url": "https://github.com/Ddoobyddooby"
   },
-  "homepage": "https://github.com/Ddoobyddooby/orca-window-theme",
+  "homepage": "https://github.com/Ddoobyddooby/orca-retro-theme",
   "icon": "images/icon.png"
 }
