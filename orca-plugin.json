@@ -2,7 +2,7 @@
   "manifestVersion": 2,
   "id": "retro-98-theme",
   "name": "Retro 98",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "A retro 90s desktop look for Orca: silver panels, navy highlights, a black retro terminal and pixel-art file icons. Includes an app theme, a terminal theme and an icon theme.",
   "engines": {
     "orca": ">=1.4.246"
