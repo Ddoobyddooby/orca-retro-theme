@@ -2,8 +2,8 @@
   "manifestVersion": 2,
   "id": "retro-98-theme",
   "name": "Retro 98",
-  "version": "1.0.0",
-  "description": "A retro 90s desktop look for Orca: silver panels, navy highlights, a black DOS-style terminal and pixel-art file icons. Includes an app theme, a terminal theme and an icon theme.",
+  "version": "1.0.1",
+  "description": "A retro 90s desktop look for Orca: silver panels, navy highlights, a black retro terminal and pixel-art file icons. Includes an app theme, a terminal theme and an icon theme.",
   "engines": {
     "orca": ">=1.4.246"
   },
@@ -11,26 +11,26 @@
   "contributes": {
     "themes": [
       {
-        "id": "retro-98-theme-win98",
+        "id": "retro-98-theme-retro",
         "title": "Retro 98",
-        "path": "themes/win98.json"
+        "path": "themes/retro.json"
       },
       {
-        "id": "retro-98-theme-win98-dark",
+        "id": "retro-98-theme-retro-dark",
         "title": "Retro 98 (Dark slot)",
-        "path": "themes/win98-dark.json"
+        "path": "themes/retro-dark.json"
       }
     ],
     "terminalThemes": [
       {
-        "id": "retro-98-theme-dos",
-        "title": "Retro 98 DOS Prompt",
-        "path": "terminal/dos.json"
+        "id": "retro-98-theme-console",
+        "title": "Retro 98 Console",
+        "path": "terminal/console.json"
       },
       {
-        "id": "retro-98-theme-dos-light",
-        "title": "Retro 98 DOS Prompt (Light slot)",
-        "path": "terminal/dos-light.json"
+        "id": "retro-98-theme-console-light",
+        "title": "Retro 98 Console (Light slot)",
+        "path": "terminal/console-light.json"
       }
     ],
     "iconThemes": [
@@ -45,13 +45,13 @@
   "repository": "https://github.com/Ddoobyddooby/orca-window-theme",
   "cover": {
     "path": "images/cover.png",
-    "alt": "Retro 98 theme in Orca: light gray panels, yellow folder icons and a black DOS-style terminal"
+    "alt": "Retro 98 theme in Orca: light gray panels, yellow folder icons and a black retro terminal"
   },
   "screenshots": [
     {
       "path": "images/screenshot.png",
       "alt": "Whole Orca window with the Retro 98 app theme, icon theme and terminal theme",
-      "caption": "App theme, icons and DOS-style terminal together"
+      "caption": "App theme, icons and retro terminal together"
     },
     {
       "path": "images/explorer.png",
